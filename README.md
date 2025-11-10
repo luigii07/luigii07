@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=333b48&height=120&section=header" />
+
 # Olá, eu sou o Luigi Oliveira!
 
 ### 🚀 Sobre Minha Jornada
@@ -122,14 +124,14 @@ Atualmente, venho desenvolvendo projetos pessoais que me permitem experimentar n
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: nowrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: nowrap; gap: 20px;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=luigii07&show_icons=true&theme=rose_pine&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=luigii07&show_icons=true&theme=rose_pine&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=luigii07&show_icons=true&theme=swift&bg_color=00000000"
+      srcset="https://github-readme-stats.vercel.app/api?username=luigii07&show_icons=true&theme=swift&bg_color=00000000&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=luigii07&show_icons=true" height="160" />
@@ -137,13 +139,15 @@ Atualmente, venho desenvolvendo projetos pessoais que me permitem experimentar n
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&theme=rose_pine&bg_color=00000000&layout=compact&custom_title=Tecnologias&langs_count=9"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&theme=rose_pine&bg_color=00000000&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=9"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&theme=swift&bg_color=00000000&layout=compact&custom_title=Tecnologias&langs_count=9"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&theme=swift&bg_color=00000000&hide_border=true&layout=compact&custom_title=Tecnologias&langs_count=9"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&layout=compact&custom_title=Tecnologias&langs_count=9" height="160" />
   </picture>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=333b48&height=120&section=footer" />
