@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=333b48&height=120&section=header" />
-
 # Olá, eu sou o Luigi Oliveira!
 
 ### 🚀 Sobre Minha Jornada
@@ -149,5 +147,3 @@ Atualmente, venho desenvolvendo projetos pessoais que me permitem experimentar n
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigii07&layout=compact&custom_title=Tecnologias&langs_count=9" height="160" />
   </picture>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=333b48&height=120&section=footer" />
